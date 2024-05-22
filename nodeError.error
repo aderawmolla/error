@@ -1,1 +1,9 @@
 
+ERROR:/home/aderaw-ebm/My_Folder/Backend/Zonner-Backend/node_modules/graphql-request/build/cjs/index.js:112
+            jsonSerializer: fetchOptions.jsonSerializer ?? defaultJsonSerializer_js_1.defaultJsonSerializer,
+SOLUTION:
+              nvm ls-remote
+              nvm install <version>
+              nvm use <version>
+
+                                                         
