@@ -1,1 +1,75 @@
+ cd Zonner-Backend/
+ 1938  git pull
+ 1939  docker-compose down
+ 1940  docker-compose up -d
+ 1941  npm run rebuild
+ 1942  docker rm d41e21c74918_zonner_express_app
+ 1943  npm run rebuild
+ 1944  cd Zonner-Backend/
+ 1945  ls
+ 1946  git pull
+ 1947  docker-compose down
+ 1948  docker-compose up -d
+ 1949  npm run rebuild
+ 1950  docker-compose down
+ 1951  ls
+ 1952  cd Zonner-Backend/
+ 1953  ls
+ 1954  git pull
+ 1955  docker-compose down
+ 1956  docker-compose up -d
+ 1957  npm run rebuild
+ 1958  history
+ 1959  docker rm fe6043a765b4_zonner_express_app
+ 1960  npm run rebuild
+ 1961  sudo nano .env
+ 1962  npm run rebuild
+ 1963  docker-compose down
+ 1964  docker-compose up -d
+ 1965  npm run rebuild
+ 1966  ls
+ 1967  cd Zonner-Backend/
+ 1968  ls
+ 1969  git pull
+ 1970  docker-compose down
+ 1971  docker-compose up -d
+ 1972  npm run rebuild
+ 1973  history
+ 1974  npm run rebuild
+ 1975  history
+ 1976  docker rm 372433b46649_zonner_express_app
+ 1977  npm run rebuild
+ 1978  clear
+ 1979  ssh root@64.226.115.135
+ 1980  cd 
+ 1981  ls
+ 1982  cd Zonner-Backend/
+ 1983  ls
+ 1984  git pull
+ 1985  docker-compose down
+ 1986  docker-compose up -d
+ 1987  npm run rebuild
+ 1988  docker rm 24b4172805c5_zonner_express_app
+ 1989  npm run rebuild
+ 1990  ls
+ 1991  cd Zonner-Backend/
+ 1992  ls
+ 1993  git pull
+ 1994  docker-compose down
+ 1995  docker-compose up -d
+ 1996  npm run rebuild
+ 1997  docker rm 9e8069963432_zonner_express_app
+ 1998  npm run rebuild
+ 1999  docker ps
+ 2000  clear
+ 2001  ls
+ 2002  cd Zonner-Backend
+ 2003  ls
+ 2004  touch .env
+ 2005  car .env
+ 2006  cat  .env
+ 2007  clear
+ 2008  sudo nano .env
+ 2009  npm run rebuild
+ 2010  history
 
